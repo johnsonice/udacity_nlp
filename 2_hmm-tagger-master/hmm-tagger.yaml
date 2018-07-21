@@ -1,4 +1,4 @@
-name: hmm-tagger
+name: udacity-nlp
 channels:
 - anaconda
 - defaults
